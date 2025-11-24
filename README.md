@@ -65,3 +65,41 @@ This project features an interactive **Sales & Customer Performance Dashboard** 
 - **Dynamic Filtering**: Filter by region, time period, product category, and customer segment
 - **Cross-Visual Highlighting**: Click any data point to filter entire dashboard
 - **Drill-through Capabilities**: Navigate from summary metrics to detailed transaction data
+
+## 📊 Dashboard Metrics
+
+| Metric | Description | Formula |
+|--------|-------------|---------|
+| **Total Sales** | Total revenue from all completed orders | `SUM(Sales)` |
+| **Total Profit** | Net earnings after cost deductions | `SUM(Profit)` |
+| **Profit Margin (%)** | Percentage of profit from total sales | `(SUM(Profit) / SUM(Sales)) * 100` |
+| **YoY Growth** | Year-over-year performance comparison | `(Current Year - Previous Year) / Previous Year` |
+| **Total Customers** | Unique customers with purchases | `DISTINCTCOUNT(CustomerID)` |
+| **Total Orders** | Number of transactions recorded | `COUNT(OrderID)` |
+| **Avg Sales per Customer** | Average revenue per customer | `SUM(Sales) / DISTINCTCOUNT(CustomerID)` |
+
+## 🛠️ Technology Stack
+
+| Component | Technology |
+|-----------|------------|
+| **Visualization Platform** | Microsoft Power BI |
+| **Data Source** | Excel/CSV files |
+| **Data Transformation** | Power Query |
+| **Data Modeling** | Star Schema |
+| **KPI Calculations** | DAX (Data Analysis Expressions) |
+| **Data Cleaning** | Power Query Editor |
+
+## 🚀 How to View
+
+### Interactive Dashboard
+Experience the full interactive Power BI dashboard with all filtering and drill-down capabilities:
+
+➡️ **[View Live Dashboard on Power BI Service](https://app.powerbi.com/view?r=eyJrIjoiMmVlYzM2NWUtNWZhNC00MTUxLWFmNjAtNDg4NTEyODc5NWY3IiwidCI6IjIzZGY3Yzg1LTExNzEtNDY4NS1iNjYxLWIzOGQzZDEwZDJmMSJ9&pageName=b1e2c48aaafb3dae9bcd)**
+
+### Dashboard Features
+- **🔹 Interactive Navigation**: Switch between Sales and Customer dashboards using tab navigation
+- **🔹 Dynamic Filtering**: Filter by date range, region, product category, customer segment
+- **🔹 Cross-filtering**: Click any visual to filter related data across entire dashboard
+- **🔹 Drill-through**: Navigate from summary KPIs to detailed transaction level
+- **🔹 Export Capabilities**: Download visuals and data for reports and presentations
+- **🔹 Responsive Design**: Optimized for desktop and mobile viewing
