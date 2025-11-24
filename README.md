@@ -23,3 +23,23 @@ This project features an interactive **Sales & Customer Performance Dashboard** 
 - [How to View](#how-to-view)
 - [Future Enhancements](#future-enhancements)
 - [Author](#author)
+
+## 📊 Dashboard Overview
+
+### Sales Performance Dashboard
+![Sales Dashboard](Sales_Dashboard.PNG)
+
+### Customer Analytics Dashboard  
+![Customer Dashboard](Customer_Dashboard.PNG)
+
+## 🎯 Project Objectives
+
+**Track Key KPIs**: Monitor essential business metrics including Total Sales ($2.297K), Total Profit ($286K), and Quantity Sold (38K units) with Year-over-Year growth analysis.
+
+**Analyze Performance Trends**: Visualize sales and profit evolution across different time periods to identify seasonal patterns and growth opportunities.
+
+**Segment Business Performance**: Break down performance by Product Category (Technology, Furniture, Office Supplies) and Customer Segment (Consumer, Corporate, Home Office).
+
+**Evaluate Customer Value**: Identify Top 10 Most Profitable Customers and analyze customer purchasing behavior to optimize retention strategies.
+
+**Monitor Operational Efficiency**: Track Total Orders (5009) and Customer Count (793) to measure business engagement and transaction volume.
