@@ -144,7 +144,7 @@ The project showcases expertise in end-to-end analytics solution development, fr
 
 Data Analyst | Business Intelligence Engineer | Power BI Developer | Data Scientist
 
-![Profile Photo](opti%20profil.jpg)
+<img src="opti profil.jpg" alt="Profile Photo" width="150" style="border-radius: 50%;">
 
 💼 [LinkedIn](https://linkedin.com/in/habibaidara)  
 🐙 [GitHub](https://github.com/habibaidara)  
