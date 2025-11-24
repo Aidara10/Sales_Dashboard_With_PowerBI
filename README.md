@@ -43,3 +43,25 @@ This project features an interactive **Sales & Customer Performance Dashboard** 
 **Evaluate Customer Value**: Identify Top 10 Most Profitable Customers and analyze customer purchasing behavior to optimize retention strategies.
 
 **Monitor Operational Efficiency**: Track Total Orders (5009) and Customer Count (793) to measure business engagement and transaction volume.
+
+## ✨ Key Features & Insights
+
+### 📈 Executive Sales KPIs
+- **Total Sales**: $2.297K (46.9% growth vs. previous year)
+- **Total Profit**: $286K (48.4% growth vs. previous year) 
+- **Quantity Sold**: 38K units (49.1% growth vs. previous year)
+
+### 🎯 Performance Segmentation
+- **Category Performance**: Technology leads in both sales and profit generation
+- **Customer Segments**: Consumer segment dominates sales volume
+- **Regional Distribution**: Comprehensive sales breakdown across all operating regions
+
+### 👥 Customer Intelligence
+- **Top 10 Customers**: Tamara Chand leads with $19,052 total sales and $9,023 profit
+- **Customer Analytics**: Average sales per customer at $2,897 (44.8% YoY growth)
+- **Order Analysis**: 5009 total orders with 50.8% year-over-year growth
+
+### 🔍 Interactive Analytics
+- **Dynamic Filtering**: Filter by region, time period, product category, and customer segment
+- **Cross-Visual Highlighting**: Click any data point to filter entire dashboard
+- **Drill-through Capabilities**: Navigate from summary metrics to detailed transaction data
