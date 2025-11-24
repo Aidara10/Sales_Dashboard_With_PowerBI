@@ -7,7 +7,7 @@ This project features an interactive **Sales & Customer Performance Dashboard** 
     <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
     <img src="https://img.shields.io/badge/Dashboard-blue?style=for-the-badge" alt="Dashboard">
   </a>
-  <a href="https://github.com/Aidara10/Sales_Dashboard_With_PowerBI/tree/main/dataset">
+  <a href="https://github.com/Aidara10/Sales_Dashboard_With_PowerBI/tree/main">
     <img src="https://img.shields.io/badge/Data_Source-555555?style=for-the-badge" alt="Data Source">
     <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel" alt="Excel">
   </a>
