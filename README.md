@@ -142,7 +142,7 @@ The project showcases expertise in end-to-end analytics solution development, fr
 
 **Habib Aidara**
 
-Data Analyst | Business Intelligence Engineer | Power BI Developer | Data Scientist
+Data Analyst | Analyst Pricing | Data Stratgy| BI Engineer | Power BI Developer | Data Scientist
 
 <img src="opti profil.jpg" alt="Profile Photo" width="150" style="border-radius: 50%;">
 
