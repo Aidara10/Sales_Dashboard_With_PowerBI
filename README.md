@@ -12,3 +12,14 @@ This project features an interactive **Sales & Customer Performance Dashboard** 
     <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel" alt="Excel">
   </a>
 </p>
+
+## 📑 Table of Contents
+
+- [Overview](#overview)
+- [Project Objectives](#project-objectives) 
+- [Key Features](#key-features)
+- [Dashboard Metrics](#dashboard-metrics)
+- [Technology Stack](#technology-stack)
+- [How to View](#how-to-view)
+- [Future Enhancements](#future-enhancements)
+- [Author](#author)
