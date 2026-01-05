@@ -32,6 +32,10 @@ This project features an interactive **Sales & Customer Performance Dashboard** 
 ### Customer Analytics Dashboard  
 ![Customer Dashboard](Customer_Dashboard.PNG)
 
+<img width="1317" height="739" alt="image" src="https://github.com/user-attachments/assets/685cf2aa-4afd-4310-b18e-8ca4572b82c9" />
+
+
+
 ## 🎯 Project Objectives
 
 **Track Key KPIs**: Monitor essential business metrics including Total Sales ($2.297K), Total Profit ($286K), and Quantity Sold (38K units) with Year-over-Year growth analysis.
